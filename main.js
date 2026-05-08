@@ -2,8 +2,8 @@ const channels = [
                {
                 name: "BBC News", 
                 sources: [
-                    { name: "UK", url: "https://live.applelive.in/cranganorechannel/cranganorechannel/index.m3u8" },
-                    { name: "Asia", url: "https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8" }
+                    { name: "UK", url: "https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8" },
+                    { name: "Asia", url: "https://rktv-hs1.tamilstream.in/rktv/tenkasi/playlist.m3u8" }
                 ], 
                 img: "https://i.postimg.cc/s2679ZP4/bbc.jpg", 
                 category: ["News", "English", "USA"],
